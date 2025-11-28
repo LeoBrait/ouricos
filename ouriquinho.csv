@@ -1,0 +1,13 @@
+id,estrato,ponto,replica,satelite,ourico,pepino,ofiuridio
+1,praia_superior,direita,r1,1,0,1,0
+2,praia_superior,direita,r2,0,0,0,0
+3,praia_superior,esquerda,r1,0,0,0,0
+4,praia_superior,esquerda,r2,2,0,0,0
+5,meio,direita,r1,7,0,0,1
+6,meio,direita,r2,3,0,0,0
+7,meio,esquerda,r1,3,0,1,0
+8,meio,esquerda,r2,3,0,0,1
+9,oceano_inferior,direita,r1,15,0,0,3
+10,oceano_inferior,direita,r2,30,1,1,3
+11,oceano_inferior,esquerda,r1,13,0,1,1
+12,oceano_inferior,esquerda,r2,7,0,0,3
